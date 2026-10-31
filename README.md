@@ -3,7 +3,7 @@
 스팀판 **In Verbis Virtus**(인 버비스 버투스) 비공식 한글패치입니다.
 
 > 📖 **설치 방법, 스크린샷, 업데이트 소식은 블로그에서 확인하세요**
-> 👉 https://mirorong0323.tistory.com
+> 👉 https://mirorong0323.tistory.com/5
 
 ## 다운로드
 
@@ -34,7 +34,7 @@ Steam 라이브러리에서 게임 우클릭 → **속성 → 설치된 파일 �
 
 ## 오역 · 버그 제보
 
-[블로그](https://mirorong0323.tistory.com) 댓글로 남겨 주세요.
+[블로그](https://mirorong0323.tistory.com/5) 댓글로 남겨 주세요.
 
 ---
 
